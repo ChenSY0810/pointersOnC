@@ -5,6 +5,6 @@ enum JarType {
 };
 
 int main (){
-
+    
     return 0;
 }
